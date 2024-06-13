@@ -1,0 +1,9 @@
+Events to Capture and Write to the Console:
+Route Accessed:
+    This event is captured every time a specific route is accessed. It helps in tracking which routes are being accessed by users, providing insights into usage patterns.
+
+File Read Success:
+    This event is captured when a requested HTML file is successfully read from the views folder. It confirms that the server is serving the correct files without errors.
+
+File Not Found:
+    This event is captured when a requested HTML file is not found in the views folder. It alerts that a requested file is missing.
